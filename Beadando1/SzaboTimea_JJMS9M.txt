@@ -1,0 +1,4 @@
+A külső keret rajzolást nem tudtam megoldani a jegyzetben írtak alapján (def draw_outer_border(img_in, b, c)), 
+ezért más módszerhez folyamodtam.
+Valamint azt nem korlátoztam hányszor lehet hozzáadni külső keretet és azt hányszor lehet levágni, 
+erről nem írt a feladat, így megadtam a szabadságot ezen a téren.
