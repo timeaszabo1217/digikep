@@ -1,6 +1,6 @@
 # Digitális képfeldolgozás
 
-Jelen projekt során egy TARDIS modellt valósítottam meg Blenderben, miközben az OpenCV segítségével egy űrt ábrázoló digitális képfeldolgozást készítettem, kombinálva a 3D modellezést és a képi effektusokat a valósághű űrélmény létrehozásához.
+A beadandók során elsajátítottam a digitális képfeldolgozás alapvető és haladó technikáit, mint a pontműveletek, zajcsökkentés, éldetektálás, szegmentálás és alakzatelemzés, miközben mélyebb ismereteket szereztem az OpenCV könyvtár használatában és képek dinamikus feldolgozásában.
 
 ## Feladat szöveges leírása
 A Digitális képfeldolgozás tantárgy során a félév beadandói OpenCV segítségével kerülnek elkészítésre. Az OpenCV egy széles körben használt képfeldolgozó könyvtár, amely C++ alapú, de Python és Java nyelvi kötésekkel is rendelkezik. A félév célja a képfeldolgozás alapvető és magasabb szintű eljárásainak alkalmazása, valamint az OpenCV használatának gyakorlati elsajátítása. A tantárgy során több gyakorlati feladatot oldunk meg, amelyek segítségével mélyebb ismereteket szerzünk a digitális képek feldolgozásában és elemzésében.
