@@ -24,8 +24,8 @@ A Digitális képfeldolgozás tantárgy során a félév beadandói OpenCV segí
 
 ### Dokumentáció és kód
 A beadandóhoz mellékelt dokumentáció és kód az alábbiakat kell, hogy tartalmazza:
-1. **Feladatok részletes leírása**: Minden képfeldolgozó algoritmus alkalmazása előtt egy részletes leírás arról, hogy miért és hogyan választottuk azt a megoldást.
-2. **Alkalmazott algoritmusok magyarázata**: A használt OpenCV függvények és módszerek leírása, illetve azok működésének magyarázata.
-3. **Programkód**: A teljes programkód, amely tartalmazza a képfeldolgozó műveleteket, mint például a képek beolvasása, feldolgozása, és az eredmények kiírása.
-4. **Vizualizált eredmények**: A feldolgozott képek és azok változásainak bemutatása, például előtte-utána képek, hisztogramok és más vizualizációk.
-5. **Elemzés és következtetések**: Minden feladathoz mellékelni kell az elemzést, hogy az alkalmazott képfeldolgozási módszerek hogyan befolyásolták az eredményeket, és hogyan lehetne továbbfejleszteni a megoldást.
+- **Feladatok részletes leírása**: Minden képfeldolgozó algoritmus alkalmazása előtt egy részletes leírás arról, hogy miért és hogyan választottuk azt a megoldást.
+- **Alkalmazott algoritmusok magyarázata**: A használt OpenCV függvények és módszerek leírása, illetve azok működésének magyarázata.
+- **Programkód**: A teljes programkód, amely tartalmazza a képfeldolgozó műveleteket, mint például a képek beolvasása, feldolgozása, és az eredmények kiírása.
+- **Vizualizált eredmények**: A feldolgozott képek és azok változásainak bemutatása, például előtte-utána képek, hisztogramok és más vizualizációk.
+- **Elemzés és következtetések**: Minden feladathoz mellékelni kell az elemzést, hogy az alkalmazott képfeldolgozási módszerek hogyan befolyásolták az eredményeket, és hogyan lehetne továbbfejleszteni a megoldást.
